@@ -37,6 +37,31 @@
   }
 }
 
-  .bg-brand-gradient {
-    border: 1px solid linear-gradient(#3490dc, #6574cd);
-  }
+.epigastrium {
+  width: 2.8rem;
+  height: 2.95rem;
+}
+
+.ruq {
+  width: 2.45rem;
+  height: 2.5rem;
+}
+
+.rlq {
+  width: 2.5rem;
+  height: 2.7rem;
+}
+
+.bottom {
+  width: 2.6rem;
+  height: 2.4rem;
+}
+
+.center {
+  width: 2rem;
+  height: 2rem;
+}
+
+/*clip-path: polygon(50% 0%, 100% 36%, 50% 100%, 0 36%);*/
+/*clip-path: polygon(50% 0%, 100% 25%, 75% 100%, 25% 100%, 0% 25%);*/
+/*clip-path: polygon(50% 0%, 100% 66%, 50% 100%, 0 67%);*/
