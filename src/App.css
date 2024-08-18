@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+  .bg-brand-gradient {
+    border: 1px solid linear-gradient(#3490dc, #6574cd);
+  }
